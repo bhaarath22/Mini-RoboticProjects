@@ -1,4 +1,4 @@
-# **Dust Bin Collector Vehicle**
+# **Dust Bin Collector Rover**
 
 ## **Project Timeline:** July 2023 - December 2023  
 
