@@ -1,13 +1,11 @@
 #include <Servo.h>
 
-// Constants
+
 const int MASTER_SERVO_ANGLE = 90;
 const int SERVO_COUNT = 4;
 
-// Servo objects
 Servo servos[SERVO_COUNT];
 
-// Servo pin assignments
 int servoPins[SERVO_COUNT][3] = {
   {2, 5, 8},  // Master
   {3, 6, 9},  // Slave FL
