@@ -1,11 +1,9 @@
 #include<Servo.h>
-//#define numofservos 3
-//lets create servo servo objects
 Servo ServoMaster[3];
 Servo ServoSlaveFL[3];
 Servo ServoSlaveBR[3];
 Servo ServoSlaveBL[3];
-// Lets define the pins for servos
+
 int ServoMasterpins[3]={2,3,4};
 int ServoSlaveFLpins[3]={5,6,7};
 int ServoSlaveBRpins[3]={8,9,10};
