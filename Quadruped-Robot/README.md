@@ -38,7 +38,8 @@ During my college's 4th semester, I intended to do a project on kinematics and d
 - Inverse kinematics is the process of computing the joint angles required to place the end effector at a desired position.
 - In contrast to FK, which is simple, IK usually requires solving complicated nonlinear equations.
 - I used IK in Python to manage the movements of the quadruped efficiently.
-
+### OUTPUT
+![out](IKO.jpeg)
 #### Workspace Exploration
 - The workspace of a robot specifies the entire region within which the end effector can travel.
 - It is divided into two types:
