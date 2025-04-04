@@ -41,7 +41,8 @@ During my **3rd semester**, I intended to design a **street dustbin collector ve
 | **400 - 600**    | **400 - 600**   | **Stop (Neutral Position)** |
 
 ---
-
+### *** Final work**
+![img](https://github.com/bhaarath22/Mini-RoboticProjects/blob/f39515542a7fffd83d07739398be9fccf972a701/DustBin-Collector-Rover/DataDC/DBSC2.jpeg)
 ## **Key Learnings**
 - **Understanding Joystick Input:** How to manipulate X, Y-axis values for controlling movement.
 - **Analog & Digital Pins of Microcontroller:** Processing sensor data efficiently.
